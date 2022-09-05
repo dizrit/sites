@@ -1,0 +1,96 @@
+html {
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 10px;
+
+   
+    top: 0;
+    left: 0;
+    display: flex;
+   
+    align-content: center;
+    justify-content: center;
+    overflow: auto;
+  } 
+  
+
+
+.shapka {
+    display: flex;
+    
+    
+}
+
+.block {
+}
+
+.block1 {
+  margin-right: 100px;
+}
+
+.block2 {
+  margin-right: 100px; 
+}
+
+.block3 {
+  width: 190px;
+  height: 200px;
+}
+
+.block3>img {
+  position: absolute;
+  width: 190px;
+  height: 200px;
+}
+
+.block4 {
+  text-align: center;
+}
+
+.block4>span {
+  padding: 3px 0;
+  line-height: 1.45;
+  background: rgba(0, 255, 55, 0.829);
+}
+
+.block5 {
+  
+}
+
+hr {
+  border:1px solid #000000;
+}
+
+.blockInfo { 
+  
+  width: 670px; 
+  text-align: justify  
+}
+
+p {
+  text-indent: 2em;
+  margin-bottom: 0
+ }
+
+p + p {
+  text-indent: 2em;
+  margin-top: 0;
+}
+
+h3 {
+  
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.spec {
+
+}
+
+
